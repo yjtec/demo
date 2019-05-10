@@ -1,0 +1,16 @@
+{
+    "name": "kidkang/demo3",
+    "description": "deko",
+    "authors": [
+        {
+            "name": "kidkang",
+            "email": "723616880@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Yjtec\\":"src/"
+        }
+    }
+}
